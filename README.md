@@ -59,44 +59,20 @@ Feature 17: &nbsp; Show Blog Acording to Tag
 
 <h1>Installation</h1>
 
-<h3> 1 &nbsp; Clone the repository:</h3>
+<h3> 1 &nbsp;Login To Admin Dashboad:</h3>
 <pre>
-    git clone : https://github.com/Sajib-dev1/ThaMart
+   Email: sr7979197@gmail.com
+    Password: Pa$$w0rd!
 </pre>
-
-
-<h3> 2 &nbsp; Navigate to the project directory:</h3>
-<pre>
-    cd laravel-ecommerce
-</pre>
-
-
-<h3> 3 &nbsp; Install dependencies:</h3>
-<pre>
-    composer install
-</pre>
-
-
-<h3> 4 &nbsp; Copy the .env.example file to .env:</h3>
-<pre>
-    cp .env.example .env
-</pre>
-
-
-<h3> 5 &nbsp; Generate application key:</h3>
-<pre>
-    php artisan key:generate
-</pre>
-
 
 <h3> 6 &nbsp; Set up your database connection in the .env file:</h3>
 <pre>
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=themart
-    DB_USERNAME=your_username
-    DB_PASSWORD=your_password
+    DB_DATABASE=blogsite
+    DB_USERNAME=root
+    DB_PASSWORD=
 </pre>
 
 <h3> 7 &nbsp; Migrate the database:</h3>
