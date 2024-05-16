@@ -22,15 +22,15 @@ This is a User-friendly and beautiful Blogsit project. It is a multi vendor blog
 ## Features
 
 <pre>
-Feature 1: &nbsp; Multi Authentication                                 
-Feature 2: &nbsp; Roll Management System                              
-Feature 3: &nbsp; Login With Google                   
-Feature 4: &nbsp; Login With Github                     
-Feature 5: &nbsp; Show Popular Blog                 
-Feature 6: &nbsp; Show Trending Blog                            
-Feature 7: &nbsp; Show Blog According to Category                     
-Feature 8: &nbsp; Review & Comments                          
-Feature 9: &nbsp; Search Option             
+Feature 1:  &nbsp; Multi Authentication                                 
+Feature 2:  &nbsp; Roll Management System                              
+Feature 3:  &nbsp; Login With Google                   
+Feature 4:  &nbsp; Login With Github                     
+Feature 5:  &nbsp; Show Popular Blog                 
+Feature 6:  &nbsp; Show Trending Blog                            
+Feature 7:  &nbsp; Show Blog According to Category                     
+Feature 8:  &nbsp; Review & Comments                          
+Feature 9:  &nbsp; Search Option             
 Feature 10: &nbsp; Custom Pagination                     
 Feature 11: &nbsp; Share Blog On Social Media     
 Feature 12: &nbsp; CRUD Functionality       
@@ -38,8 +38,7 @@ Feature 13: &nbsp; Soft Delete
 Feature 14: &nbsp; Hard Delete        
 Feature 15: &nbsp; Social Icon Add                                   
 Feature 16: &nbsp; Show Recent Add Blog                        
-Feature 17: &nbsp; Show Blog Acording to Tag    
-Feature 20: &nbsp; Customer Invoice sent for Gmail    
+Feature 17: &nbsp; Show Blog Acording to Tag     
 </pre>
 
 ## Technologies Used
