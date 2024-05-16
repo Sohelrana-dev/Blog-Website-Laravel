@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">Tha-Mart</h1>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -7,60 +7,116 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h4><a href="https://drive.google.com/drive/folders/18j9v3pSRE9YwjhYn68NREyjThg4lfvmA?usp=sharing" target="_blank">Project SQL file link </a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1F9sdS5lFVETJFXaOfFSkpXNq_jG5XLEF?usp=sharing" target="_blank">show this website All image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/17meXY-hBXj2uDxe9asq9mniUSoBISwJD?usp=sharing" target="_blank">show this website all frontend image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1wEwN7ife-4dXlKDUrtRZKp4T_sIlSiEG?usp=sharing" target="_blank">show this website all backend image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1mQBjnn76FIcYq98ocoNb6CxkxSsE1nwM?usp=sharing" target="_blank">show this website all Api image screenshot</a></h4>
 
-## Learning Laravel
+## About This Laravel project
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+It is a customer-friendly e-commerce project. Here you can manage roles. Customer queries can be answered beautifully with AI. Can send Gmail, SMS, and invoices to customers. Customers can keep the product in the cart for a long time without buying it. After placing the product order, you can cancel the order. With this, customers can return and pay online even after receiving the product. Customers can buy by looking at top sales and reviews and there are also subscriber offers and various offers.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Features
 
-## Laravel Sponsors
+<pre>
+Feature 1: &nbsp; Multi Authentication                                      Feature 21: &nbsp; Customer SMS sent for Mobile
+Feature 2: &nbsp; Roll Management System                                    Feature 22: &nbsp; Admin Order cancel option
+Feature 3: &nbsp; Inventory Management                                      Feature 23: &nbsp; Customer Order cancel option
+Feature 4: &nbsp; Cash on Delivery Payment method                           Feature 24: &nbsp; Customer Order return option
+Feature 5: &nbsp; SSLCOMMERZ Payment method                                 Feature 25: &nbsp; A lot of users.
+Feature 6: &nbsp; STRIPE Payment method                                     Feature 26: &nbsp; Category option (Add, Edit,soft-delete, restore, permanent delete
+Feature 7: &nbsp; Search Functionality                                      Feature 27: &nbsp; Subcategory option (Add, Edit,soft-delete, restore, permanent delete
+Feature 8: &nbsp; Review & Comments                                         Feature 28: &nbsp; Brand option (Add, Edit,soft-delete, restore, permanent delete & more future
+Feature 9: &nbsp; Filtering                                                 Feature 29: &nbsp; Product unlimited store, product control & inventory add product, product store increment, decrement
+Feature 10: &nbsp; Mail verification                                        Feature 30: &nbsp; Product tag search tag Waze product search, product color size edit
+Feature 11: &nbsp; social login                                             Feature 31: &nbsp; Category, subcategory, brand-wise product view
+Feature 12: &nbsp; Rest API Integration                                     Feature 32: &nbsp; add a dynamic delivery charge
+Feature 13: &nbsp; Live chat & AI smart answer generator                    Feature 33: &nbsp; add a dynamic coupon add
+Feature 14: &nbsp; Add cart                                                 Feature 34: &nbsp; add a dynamic coupon add
+Feature 15: &nbsp; Add wishlist                                             Feature 35: &nbsp; add a dynamic banner & banner product show  
+Feature 16: &nbsp; Add Recently Viewed product                              Feature 36: &nbsp; Upcoming offer product store
+Feature 17: &nbsp; Cart Update option                                       Feature 37: &nbsp; discount offer product store
+Feature 18: &nbsp; Checkout option                                          Feature 38: &nbsp; Special discount for subscribers
+Feature 19: &nbsp; Billing Address, Ship to a Different Address             Feature 39: &nbsp; Does anyone report for my side
+Feature 20: &nbsp; Customer Invoice sent for Gmail    
+</pre>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Technologies Used
 
-### Premium Partners
+<p>Laravel</p>
+<p>PHP</p>
+<p>MySQL (or any other database)</p>
+<p>HTML/CSS (if applicable)</p>
+<p>JavaScript (if applicable)</p>
+<p>postman</p>
+<p>Rest API</p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<pre>
+    <h3>Contact :</h3> sajib03.dev@gmail.com
+    <h3>Project Link :</h3> https://github.com/Sajib-dev1/ThaMart
+    
+</pre>
+<hr>
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<h1>Installation</h1>
 
-## Code of Conduct
+<h3> 1 &nbsp; Clone the repository:</h3>
+<pre>
+    git clone : https://github.com/Sajib-dev1/ThaMart
+</pre>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+<h3> 2 &nbsp; Navigate to the project directory:</h3>
+<pre>
+    cd laravel-ecommerce
+</pre>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
+<h3> 3 &nbsp; Install dependencies:</h3>
+<pre>
+    composer install
+</pre>
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<h3> 4 &nbsp; Copy the .env.example file to .env:</h3>
+<pre>
+    cp .env.example .env
+</pre>
+
+
+<h3> 5 &nbsp; Generate application key:</h3>
+<pre>
+    php artisan key:generate
+</pre>
+
+
+<h3> 6 &nbsp; Set up your database connection in the .env file:</h3>
+<pre>
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=themart
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+</pre>
+
+<h3> 7 &nbsp; Migrate the database:</h3>
+<pre>
+    php artisan migrate
+</pre>
+
+<h3> 8 &nbsp; Serve the application:</h3>
+<pre>
+   php artisan serve
+</pre>
+
+<h3> 9 &nbsp; Visit http://localhost:8000 in your web browser.</h3>
+
+
+
