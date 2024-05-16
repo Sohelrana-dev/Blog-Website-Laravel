@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
@@ -11,7 +10,7 @@
 
 
 <h4><a href="https://drive.google.com/drive/folders/1SHQYQF96SOPG55Q3HXLQkBVTfjFNc9af?usp=sharing" target="_blank">Project SQL file link </a></h4>
-<h4><a href="https://drive.google.com/drive/folders/1F9sdS5lFVETJFXaOfFSkpXNq_jG5XLEF?usp=sharing" target="_blank">show this website All image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1bYqdjjBEP0y8iHMDqxhvLSLlWto2PlX_?usp=sharing" target="_blank">show this website All image screenshot</a></h4>
 <h4><a href="https://drive.google.com/drive/folders/17meXY-hBXj2uDxe9asq9mniUSoBISwJD?usp=sharing" target="_blank">show this website all frontend image screenshot</a></h4>
 <h4><a href="https://drive.google.com/drive/folders/1wEwN7ife-4dXlKDUrtRZKp4T_sIlSiEG?usp=sharing" target="_blank">show this website all backend image screenshot</a></h4>
 <h4><a href="https://drive.google.com/drive/folders/1mQBjnn76FIcYq98ocoNb6CxkxSsE1nwM?usp=sharing" target="_blank">show this website all Api image screenshot</a></h4>
