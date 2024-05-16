@@ -12,12 +12,11 @@
 <h4><a href="https://drive.google.com/drive/folders/1SHQYQF96SOPG55Q3HXLQkBVTfjFNc9af?usp=sharing" target="_blank">Project SQL file link </a></h4>
 <h4><a href="https://drive.google.com/drive/folders/1bYqdjjBEP0y8iHMDqxhvLSLlWto2PlX_?usp=sharing" target="_blank">show this website All image screenshot</a></h4>
 <h4><a href="https://drive.google.com/drive/folders/1NEFZtr57B6ZjTkY2NDHLbmxF9OC0S7y-?usp=sharing" target="_blank">show this website all frontend image screenshot</a></h4>
-<h4><a href="https://drive.google.com/drive/folders/1wEwN7ife-4dXlKDUrtRZKp4T_sIlSiEG?usp=sharing" target="_blank">show this website all backend image screenshot</a></h4>
-<h4><a href="https://drive.google.com/drive/folders/1mQBjnn76FIcYq98ocoNb6CxkxSsE1nwM?usp=sharing" target="_blank">show this website all Api image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1A-ukdO_vv4Gryx_FszLkPIHkDSC2L2Wv?usp=sharing" target="_blank">show this website all backend image screenshot</a></h4>
 
 ## About This Laravel project
 
-It is a customer-friendly e-commerce project. Here you can manage roles. Customer queries can be answered beautifully with AI. Can send Gmail, SMS, and invoices to customers. Customers can keep the product in the cart for a long time without buying it. After placing the product order, you can cancel the order. With this, customers can return and pay online even after receiving the product. Customers can buy by looking at top sales and reviews and there are also subscriber offers and various offers.
+This is a User-friendly and beautiful Blogsit project. It is a multi vendor blogsite different different Author can post your website. Here visitors can comment on the post and author reply there comment. i use here search functonality so when you need indivitual post you use search option. here i use share option if you want share a blog on your facebook,linkdin,instagram. if you want to be a Author Signup and share your blog. 
 
 
 ## Features
