@@ -48,12 +48,10 @@ Feature 17: &nbsp; Show Blog Acording to Tag
 <p>MySQL (or any other database)</p>
 <p>HTML/CSS (if applicable)</p>
 <p>JavaScript (if applicable)</p>
-<p>postman</p>
-<p>Rest API</p>
 
 <pre>
-    <h3>Contact :</h3> sajib03.dev@gmail.com
-    <h3>Project Link :</h3> https://github.com/Sajib-dev1/ThaMart
+    <h3>Contact :</h3> sohelrana.cit@gmail.com
+    <h3>Project Link :</h3> https://github.com/Sohelrana-dev/Blog-Website-Laravel
     
 </pre>
 <hr>
