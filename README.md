@@ -62,10 +62,10 @@ Feature 17: &nbsp; Show Blog Acording to Tag
 <h3> 1 &nbsp;Login To Admin Dashboad:</h3>
 <pre>
    Email: sr7979197@gmail.com
-    Password: Pa$$w0rd!
+   Password: Pa$$w0rd!
 </pre>
 
-<h3> 6 &nbsp; Set up your database connection in the .env file:</h3>
+<h3> 2 &nbsp; Set up your database connection in the .env file:</h3>
 <pre>
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
@@ -75,17 +75,17 @@ Feature 17: &nbsp; Show Blog Acording to Tag
     DB_PASSWORD=
 </pre>
 
-<h3> 7 &nbsp; Migrate the database:</h3>
+<h3> 3 &nbsp; Migrate the database:</h3>
 <pre>
     php artisan migrate
 </pre>
 
-<h3> 8 &nbsp; Serve the application:</h3>
+<h3> 4 &nbsp; Serve the application:</h3>
 <pre>
    php artisan serve
 </pre>
 
-<h3> 9 &nbsp; Visit http://localhost:8000 in your web browser.</h3>
+<h3> 5 &nbsp; Visit http://localhost:8000 in your web browser.</h3>
 
 
 
